@@ -1,0 +1,15 @@
+.content-menu{
+    box-sizing: border-box;
+    height: 100vh;
+    background-color: red;
+}
+.text-color{
+    margin-bottom: 5px;
+    border-radius: 20px;
+}
+.text-color:hover{
+    border-radius: 20px;
+    background-color: rgb(11, 94, 215);
+    color: white !important;
+    transition: .8s;
+}
